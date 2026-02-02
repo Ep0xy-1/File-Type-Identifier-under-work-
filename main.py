@@ -5,7 +5,7 @@ Identifies file types based on magic bytes (file signatures) and extensions.
 
 Author: Your friendly neighborhood developer
 Purpose: Stop getting fooled by renamed files!
-"""
+""" 
 
 import os
 import sys
