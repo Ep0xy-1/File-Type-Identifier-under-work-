@@ -21,3 +21,6 @@ Pretty straightforward - it reads the first few bytes of your file (every file t
 
 ## Requirements
 Just Python 3.6 or newer. No pip installs, no dependencies - it only uses Python's built-in stuff, so it works right out of the box.
+
+## NOTE!
+This is currently under development and might take a while (since I had stopped this github thing for quite some time) but I will triumph and finish this project for I have another one that I am ITCHING to try!
