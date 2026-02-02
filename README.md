@@ -23,4 +23,5 @@ Pretty straightforward - it reads the first few bytes of your file (every file t
 Just Python 3.6 or newer. No pip installs, no dependencies - it only uses Python's built-in stuff, so it works right out of the box.
 
 ## NOTE!
-This is currently under development and might take a while (since I had stopped this github thing for quite some time) but I will triumph and finish this project for I have another one that I am ITCHING to try!
+- This is currently under development and might take a while (since I had stopped this github thing for quite some time) but I will triumph and finish this project for I have another one that I am ITCHING to try!
+- And for those who are particularly attentive and may notice that certain parts of this project are identified as AI-assisted by an AI Detector, this is to ensure full transparency. These parts of code were used solely as support for code strucutring, syntax clarification, and documentation assistance, while the overall logic, implementation, and final outputs of this repository remain my own. Thank you!
