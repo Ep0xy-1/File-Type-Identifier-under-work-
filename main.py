@@ -8,7 +8,7 @@ Purpose: Prevent misleading file extensions by checking real file signatures.
 """
 
 import os
-import sys
+import sys 
 from pathlib import Path
 
 
