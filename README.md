@@ -18,7 +18,7 @@ Validating uploads - Check that users are uploading what they say they are
 
 ## How It Works
 Pretty straightforward - it reads the first few bytes of your file (every file type has a unique "fingerprint"), checks what extension the file has, and lets you know if something doesn't match up. If a file claims to be a .docx but the actual bytes say it's a .jpg, you'll get a warning.
-
+ 
 ## Requirements
 Just Python 3.6 or newer. No pip installs, no dependencies - it only uses Python's built-in stuff, so it works right out of the box.
 
